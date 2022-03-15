@@ -1,6 +1,5 @@
 # Snake
 Snake World is a simple snake game implementation in JAVA. 
-
 The project implements the basic snake game where is goal score more points by eating food.
 
 ## Level Editor
@@ -30,8 +29,6 @@ java -jar SnakeCoregame.jar
 ## Dependencies
 ### Required
 openjdk 15
-
-Have fun.
 
 ## Snapshots
 ![InGame](https://github.com/kartikkadur/Snake/blob/main/img1.PNG)
